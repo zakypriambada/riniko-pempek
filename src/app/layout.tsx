@@ -14,7 +14,10 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Riniko Pempek",
-  description: "Web profile pempek riniko",
+  description: "Web Profile Riniko Pempek",
+  icons: {
+    icon: 'assets/icon.png',
+  },
 };
 
 export default function RootLayout({
