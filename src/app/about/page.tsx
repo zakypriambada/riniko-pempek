@@ -80,9 +80,7 @@ export default function About() {
                         <img src="/assets/logo-pempek.png" alt="Pempek Farina Logo" className="w-[150px] h-auto mb-4 rounded-full" />
                         <div className="text-gray-200 text-base md:text-lg leading-relaxed text-justify space-y-4">
                             <p>
-                                Pempek Farina adalah merek dan restoran pempek asli palembang dari surabaya. Kami selalu menerapkan sistem manajemen mutu (Quality System) untuk memberikan produk-produk yang terbaik, yakni makanan yang sehat, bergizi, dan layak dikonsumsi oleh masyarakat Indonesia.
-                                Di bawah naungan PT. Primaboga Nusantara Inti. Pempek farina memiliki banyak cabang di berbagai kota terdekat dan semuanya masih dikelola sendiri oleh keluarga pendiri perusahaan.
-                                Pempek merupakan salah satu kekayaan kuliner tradisional Indonesia yang saat ini sudah bisa dinikmati di seluruh pelosok negeri ini. Pempek Farina menjual pempek kapal selam, pempek lenjer, pempek kulit, pempek crispy, pempek otak-otak, pempek tahu, pempek adaan, pempek keriting, pempek lenggang, batagor, serta baso tekwan.
+                                Produsen rumahan pempek khas Palembang berbasis di Surabaya. Mengutamakan manajemen mutu skala UMKM—bahan segar, proses higienis, dan rasa yang konsisten—agar produk sehat, bergizi, dan aman dikonsumsi. Dikelola keluarga dan melayani pesanan harian serta pengiriman ke area sekitar. Varian tersedia: pempek kapal selam, lenjer, kulit, crispy, otak-otak, tahu, adaan, keriting, lenggang, batagor, dan baso tekwan.
                             </p>
                         </div>
 

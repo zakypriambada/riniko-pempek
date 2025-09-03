@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
 
                 <div className="flex flex-col flex-1 min-w-[280px] m-5 lg:items-start md:items-center md:text-center">
                     <h3 className="text-white text-lg font-bold mb-5">KONTAK</h3>
-                    <p className="mb-2 text-base">081336572790 (WA)</p>
+                    <p className="mb-2 text-base">+62 813-3657-2790 (WA)</p>
                     <p className="mb-2 text-base">pempekriniko@gmail.com</p>
                     <div className="flex gap-4 mt-5 md:justify-center">
                         {/* Instagram */}
